@@ -82,7 +82,7 @@ Além do desenvolvimento, atuo como **Instrutor de Lógica de Programação** vo
 </p>
 
 **Repositório:**
-* <a href="https://github.com/Ong-Ser-Amor"><strong>Portal Ong Ser Amor</strong></a>
+* <a href="https://github.com/orgs/Ong-Ser-Amor/repositories"><strong>Portal Ong Ser Amor</strong></a>
 
 ---
 
